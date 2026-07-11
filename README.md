@@ -1,7 +1,5 @@
-### Assignment no:-12 Seaborn (Relational,Distribution,Categorical & Multi plots).
+###  Seaborn (Relational,Distribution,Categorical & Multi plots).
 - This assignment cantains 8 tasks demonstrating different types of plots using seaborn, matplotlib, pandas.
-
-# Task overview
 
 ### Task 1:- Relational Plot
 - Create a relational plot (sns.replot) with neumerical columns on x and y.
